@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="button">#22FFFFFF</color>
+
+    <color name="lightblue">#39add1</color>
+    <color name="darkblue">#3079ab</color> // dark blue
+    <color name="mauve">#c25975</color> // mauve
+    <color name="red">#e15258</color> // red
+    <color name="orange">#f9845b</color> // orange
+    <color name="lavender">#838cc7</color> // lavender
+    <color name="purple">#7d669e</color> // purple
+    <color name="aqua">#53bbb4</color> // aqua
+    <color name="green">#51b46d</color> // green
+    <color name="mustard">#e0ab18</color> // mustard
+    <color name="darkgray">#637a91</color> // dark gray
+    <color name="pink">#f092b0</color> // pink
+    <color name="lightgray">#b7c0c7</color> // light gray
+</resources>
